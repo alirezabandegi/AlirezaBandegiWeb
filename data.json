@@ -1,0 +1,54 @@
+{
+    "news":[
+        {
+            "newsTittle":"Vestibulum ut aliquet tortor.",
+            "newsTime":"16:58, 15 Sep 2022",
+            "newsText":"at imperdiet sem pretium vel. Sed feugiat luctus sapien pharetra lobortis. Quisque quis maximus neque, in hendrerit arcu. Donec nec mi lacinia metus pharetra placerat. Suspendisse at augue sit amet arcu posuere accumsan. Mauris at finibus justo. Duis vestibulum congue euismod. Fusce ultrices eget eros vitae gravida. Pellentesque vitae mi fringilla, placerat felis imperdiet, malesuada nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt, mi vitae laoreet tristique, mauris quam fermentum velit, ut mattis sapien augue non leo. Suspendisse viverra lectus et mollis molestie. Sed imperdiet interdum elementum. Nulla varius neque non sollicitudin placerat."
+        },
+        {
+            "newsTittle":"Proin pretium euismod nisl sit amet elementum.",
+            "newsTime":"15:58, 15 Sep 2022",
+            "newsText":"Proin fermentum nulla eu lorem aliquam, quis sodales felis viverra. Nunc rutrum ullamcorper mauris vel egestas. Donec nisl metus, finibus ac ornare egestas, lacinia sed urna. Etiam feugiat ullamcorper metus. Aenean gravida tempus elit."
+        },
+        {
+            "newsTittle":"Aenean accumsan dignissim congue.",
+            "newsTime":"14:58, 15 Sep 2022",
+            "newsText":"Curabitur tincidunt, risus ac aliquet pharetra, magna lectus consectetur erat, ut varius ligula massa in risus. Phasellus quis hendrerit nisl. Donec ipsum ligula, pellentesque ut ligula sit amet, bibendum efficitur justo. Curabitur cursus non ex nec tempus. Praesent nisi est, lobortis ut magna vel, sodales ullamcorper velit. Donec erat diam, tincidunt eu interdum non, aliquam cursus nulla. Aenean sit amet nisl vel tellus accumsan rhoncus."
+        },
+        {
+            "newsTittle":"Nam feugiat nisi nec nunc laoreet aliquam.",
+            "newsTime":"13:58, 15 Sep 2022",
+            "newsText":"Curabitur nibh nibh, faucibus a purus a, fermentum faucibus tortor. Nam malesuada, ligula ut tempor lacinia, mauris lectus lacinia sapien, sit amet luctus diam nulla et massa. Nam elementum molestie augue, quis interdum purus efficitur vel.Praesent gravida eros et odio luctus, eu pulvinar lorem pellentesque. Mauris at auctor nisi. Sed pulvinar nulla eu arcu efficitur tincidunt. Duis commodo laoreet eros et scelerisque. Nulla nec ullamcorper enim. Morbi scelerisque metus in sollicitudin consectetur. Sed in pulvinar urna, a bibendum tortor. Nulla fermentum nunc eget lorem egestas, vel tincidunt elit eleifend. Praesent eget felis sit amet dui facilisis tristique. Aenean dapibus augue ante, id pulvinar ante aliquet id. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus massa felis, vehicula eget diam ut, congue sollicitudin diam. Praesent finibus ornare est sit amet fermentum. Vestibulum vel lacus eu lacus imperdiet vulputate venenatis at felis. Pellentesque a lectus nec leo tristique consequat. Curabitur tempus nulla ut eros eleifend, at euismod ex laoreet. Donec vestibulum sit amet enim et eleifend. Vestibulum tincidunt justo non sagittis mattis. Morbi urna mi, sagittis pharetra tempus nec, fringilla at arcu. Integer at nunc eu sapien porta gravida et sed nisi. Sed commodo velit velit, non faucibus quam malesuada vitae. Mauris tempus, quam sed scelerisque varius, massa leo ornare enim, vel efficitur dolor metus nec eros. Fusce auctor, libero nec eleifend congue, felis dui commodo libero, id dapibus nisl urna ut nisl. Fusce pretium neque in sem tempor, a viverra nulla consectetur. Nam tortor tellus, vulputate et felis non, pretium mollis lectus. Nunc in sagittis orci. Suspendisse et sem tortor. Praesent dapibus eu massa sit amet fermentum. Nullam nec hendrerit sem. Suspendisse ut diam sit amet elit vehicula ultrices eu in urna. Aliquam aliquet est et risus rhoncus, sit amet feugiat urna pellentesque. Nam a magna mattis, scelerisque est at, luctus mauris. Praesent venenatis molestie est lacinia accumsan."
+        },
+        {
+            "newsTittle":"Praesent cursus gravida nibh nec mattis.",
+            "newsTime":"12:58, 15 Sep 2022",
+            "newsText":"dignissim quis nisi ut, posuere lobortis dui. Praesent ante dui, volutpat eu odio et, tempus pulvinar lectus. Praesent viverra libero a sagittis dignissim. Duis sollicitudin ligula at nibh volutpat, vitae tincidunt dui mollis."
+        },
+        {
+            "newsTittle":"Suspendisse interdum lorem risus, sit amet tincidunt neque congue eu.",
+            "newsTime":"11:58, 15 Sep 2022",
+            "newsText":"Pellentesque elementum tortor in lectus convallis, non lobortis lacus condimentum. Nullam ullamcorper ultrices sollicitudin. Suspendisse non ex aliquet, ornare ante id, tincidunt metus. Phasellus quis odio luctus, malesuada lectus aliquet, ultricies purus. Quisque egestas, dolor finibus pulvinar placerat, odio sem varius nisl, nec laoreet nunc ante vel nunc. Phasellus tristique, nisl ut semper ultrices, eros est varius orci, eget aliquet eros lacus vitae augue. Praesent auctor dictum justo, vitae gravida odio aliquet quis. Suspendisse at tellus purus. Cras a maximus tortor. In iaculis imperdiet pulvinar. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis pharetra tincidunt posuere."
+        },
+        {
+            "newsTittle":"Fusce at pellentesque erat.",
+            "newsTime":"10:58, 15 Sep 2022",
+            "newsText":"Sed dignissim, metus non efficitur mollis, arcu erat tincidunt arcu, sed dignissim sapien ligula et erat. Vestibulum interdum dictum turpis, ac porttitor nulla condimentum id. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla urna orci, dignissim sit amet lobortis sed, aliquet feugiat velit. Vestibulum sed mauris neque. Phasellus vitae mollis enim. Aenean commodo tincidunt egestas. Morbi porta fermentum risus et volutpat. Fusce quam enim, tincidunt et nisl et, accumsan pretium est."
+        },
+        {
+            "newsTittle":"Curabitur porttitor tristique nisl, at imperdiet sem pretium vel.",
+            "newsTime":"08:58, 15 Sep 2022",
+            "newsText":"Nunc porta accumsan rutrum. Aliquam erat volutpat. Phasellus eget orci mauris. Curabitur porttitor tristique nisl, at imperdiet sem pretium vel. Sed feugiat luctus sapien pharetra lobortis. Quisque quis maximus neque, in hendrerit arcu. Donec nec mi lacinia metus pharetra placerat. Suspendisse at augue sit amet arcu posuere accumsan. Mauris at finibus justo. Duis vestibulum congue euismod. Fusce ultrices eget eros vitae gravida. Pellentesque vitae mi fringilla, placerat felis imperdiet, malesuada nulla."
+        },
+        {
+            "newsTittle":"Cras accumsan ligula vel arcu faucibus lobortis.",
+            "newsTime":"12:00, 11 Sep 2022",
+            "newsText":"dignissim quis nisi ut, posuere lobortis dui.Aliquam tristique tempor tincidunt. Nulla consectetur, dui in cursus venenatis, ante lacus faucibus ante, a vestibulum enim dui at risus. Proin et neque a tellus interdum laoreet. Nunc lacinia, metus quis vestibulum lacinia, ligula sapien ultricies enim, quis tempus enim leo eget turpis. Aliquam erat volutpat. Ut lacinia mauris tellus, scelerisque dignissim ante rhoncus lacinia. Nunc ac magna faucibus, posuere velit vulputate, commodo urna. Vestibulum imperdiet sollicitudin interdum. Duis vitae augue tempus, aliquet sem ac, scelerisque diam. Phasellus volutpat magna in purus aliquet, sit amet malesuada est commodo. Cras accumsan ligula vel arcu faucibus lobortis. Aliquam a eleifend ante, elementum porttitor tellus. Suspendisse finibus neque a felis luctus, sit amet volutpat felis interdum. Nullam imperdiet rutrum diam, sed maximus ipsum ultricies vel. Vivamus porttitor, elit eu hendrerit malesuada, urna ex laoreet dui, vitae condimentum felis ante luctus nunc. Quisque quis enim tristique, fermentum purus eu, porttitor elit. Duis dui nisl, laoreet rutrum rhoncus vel, aliquam tincidunt magna. Praesent ante dui, volutpat eu odio et, tempus pulvinar lectus. Praesent viverra libero a sagittis dignissim. Duis sollicitudin ligula at nibh volutpat, vitae tincidunt dui mollis."
+        },
+        {
+            "newsTittle":"Aliquam a eleifend ante, elementum porttitor tellus.",
+            "newsTime":"16:33, 9 Sep 2022",
+            "newsText":"Ut dignissim sem varius neque tincidunt mollis. In efficitur egestas felis suscipit varius. Duis neque felis, blandit sit amet pharetra in, sollicitudin lacinia mi. Suspendisse consectetur, lacus vitae semper venenatis, mi sem congue nunc, et pharetra turpis felis a mauris. Ut sodales nunc vitae orci tincidunt, ut consectetur tortor malesuada. Pellentesque vestibulum vehicula mattis. Fusce quis ex tincidunt lectus iaculis scelerisque. Proin ut libero velit. Mauris condimentum eros placerat, malesuada sapien id, vulputate urna. Fusce vulputate, diam quis molestie ornare, leo velit iaculis est, at iaculis est elit id metus. Curabitur auctor turpis nec metus pharetra, sit amet malesuada eros pretium. Donec feugiat non purus nec tristique. Curabitur pellentesque dui vel iaculis viverra. Praesent accumsan hendrerit metus, eu interdum justo ultricies a. Donec imperdiet dolor eget cursus cursus. Ut non metus sapien. Aliquam rhoncus, dui at maximus imperdiet, arcu lorem vulputate leo, ac sollicitudin justo est ut eros."
+        }
+    ]
+}

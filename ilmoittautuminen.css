@@ -1,0 +1,106 @@
+* {
+	margin: 0;
+	padding: 0;
+  }
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #f1f1f1;
+}
+
+#header{
+    overflow: auto;
+    background-color: #fe0000;
+    padding: 5px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 9999999;
+	width: 100%;
+}
+
+.header-amis-adel-logo{
+    float: left;
+}
+
+.logo-shadow{
+    color: black;
+    position: absolute;
+    top: 8px; left: 8px;
+}
+
+.logo{
+    position: relative;
+    color: white;
+}
+
+.header-amis-adel-logo span{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.header-nav{
+    float: right;
+}
+
+.header-nav nav ul li{
+    display: inline-block;
+}
+
+.header-nav nav ul li a{
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 10px;
+    color: white;
+    text-decoration: none;
+	padding: 13px 3px;
+}
+
+.header-nav nav ul li a:hover{
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 10px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-bottom: 2px solid black;
+}
+
+
+.userPage{
+    border-bottom: 2px solid white;
+}
+
+
+
+
+
+main{
+    width: 80%;
+    margin: 18vh auto;
+}
+.formSisallot{
+    text-align: center;
+    margin: 4vh 0;
+}
+
+.teksti{
+    width: 55%;
+    height: 20vh;
+}
+
+
+
+
+.footer{
+  text-align: center;
+  padding: 3vh;
+  background-color: #fe0000;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.footer p{
+  color: white;
+}
